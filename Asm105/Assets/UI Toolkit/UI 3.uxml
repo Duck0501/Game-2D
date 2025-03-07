@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="homeW" style="flex-grow: 1; background-color: rgb(75, 79, 191);">
+        <ui:Label tabindex="-1" text="You Win" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Win" style="width: 203px; left: 292px; font-size: 50px; top: 24px; color: rgb(255, 26, 0);" />
+        <ui:Button text="Replay" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Replay" style="width: 100px; left: 344px; top: 68px; height: 30px;" />
+        <ui:Button text="Exit" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Exit" style="width: 100px; left: 344px; top: 103px; height: 30px;" />
+    </ui:VisualElement>
+</ui:UXML>

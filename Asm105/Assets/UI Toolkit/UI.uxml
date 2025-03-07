@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="home" style="flex-grow: 1; background-color: rgb(12, 109, 0);">
+        <ui:Label tabindex="-1" text="Bóng Tối Huyền Bí" parse-escape-sequences="true" display-tooltip-when-elided="true" name="nameGame" style="font-size: 49px; -unity-text-align: upper-center; color: rgb(159, 0, 0); top: 10px;" />
+        <ui:Button text="Play" parse-escape-sequences="true" display-tooltip-when-elided="true" name="play" style="width: 100px; height: 30px; left: 340px; top: 60px;" />
+    </ui:VisualElement>
+</ui:UXML>

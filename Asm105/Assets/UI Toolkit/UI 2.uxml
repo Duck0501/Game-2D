@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="home" style="flex-grow: 1; background-color: rgb(188, 97, 0);">
+        <ui:Label tabindex="-1" text="Game Over" parse-escape-sequences="true" display-tooltip-when-elided="true" style="color: rgb(255, 0, 0); font-size: 59px; left: 236px;" />
+        <ui:Button text="Replay" parse-escape-sequences="true" display-tooltip-when-elided="true" name="replay" style="width: 100px; height: 30px; left: 338px; top: 40px;" />
+        <ui:Button text="Exit" parse-escape-sequences="true" display-tooltip-when-elided="true" name="exit" style="width: 100px; height: 30px; top: 82px; left: 338px;" />
+    </ui:VisualElement>
+</ui:UXML>

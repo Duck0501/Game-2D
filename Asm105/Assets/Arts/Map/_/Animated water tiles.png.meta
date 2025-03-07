@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: 5dcce5d43783b0a488e15b832824728e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animated water tiles_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab789fa5225cb6b449b87657a43c32be
+      internalID: 550052606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76e2265a392a2d46a910d38cda0e6dd
+      internalID: 1715949287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216a3a77b834a0d46a86839b54acd489
+      internalID: -108207990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc7fe46fe83cd447a164add02a22e56
+      internalID: 1344771502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5107f5475553f7a45990d93210c5f6f5
+      internalID: -811350164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f924bdc9c819341a151827befd18cc
+      internalID: -2087601170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32d559162b547f4cb7f2d010b6049cc
+      internalID: 1179066197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d887934d0b11004982c9fc9c9798613
+      internalID: -1420250627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95631a97225da284785e592248d0aa04
+      internalID: 828545864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace200caeec48c548a5486ff8f6cee3e
+      internalID: 1208288764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35d8e9f6795ec94a8795e0c74a0a72a
+      internalID: -722437601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1055f4830242be478fa6a67e6f46ab4
+      internalID: -635934916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84272eb1038a2e044bfbdb5c4acc36fc
+      internalID: -1392225992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5767abfd533a4a44a5b7482a4195d6d
+      internalID: 1331317937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1943dc6196831f4eb8f73a8ceaef395
+      internalID: 877116740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d4598ee0474d04391a4c5b45a77394
+      internalID: 100334840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6337b47727ed0ad4e8ffcb8a5c3c530b
+      internalID: -1735074961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbac11d6f0798446b117b56dc8d642a
+      internalID: -2099297288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620c91180e4ba9247a5aaaaf46d2c13c
+      internalID: -352002759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa88ba105f0cdce43b100ed2fd8a07e8
+      internalID: 4351766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c60715f47d34a43a08286d7858da00
+      internalID: -930944649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_112
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbcaa9b75bf4c441ad824dedf430942
+      internalID: -1852808718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6238c965dcb3e9d43a56ebc712a23183
+      internalID: -822050635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated water tiles_114
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324db246e5c636647aa43aaead66838e
+      internalID: -1092113632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Animated water tiles_0: -437052662
+      Animated water tiles_1: 550052606
+      Animated water tiles_10: 1344771502
+      Animated water tiles_100: -1417604967
+      Animated water tiles_101: -1972456940
+      Animated water tiles_102: -2129800536
+      Animated water tiles_103: -1002251912
+      Animated water tiles_104: -801323074
+      Animated water tiles_105: 1783627406
+      Animated water tiles_106: -927742003
+      Animated water tiles_107: 508505891
+      Animated water tiles_108: -27931990
+      Animated water tiles_109: 714261631
+      Animated water tiles_11: -811350164
+      Animated water tiles_110: 1888112860
+      Animated water tiles_111: 971957245
+      Animated water tiles_112: -1852808718
+      Animated water tiles_113: -822050635
+      Animated water tiles_114: -1092113632
+      Animated water tiles_115: 1963424654
+      Animated water tiles_116: 12782283
+      Animated water tiles_117: 1647255467
+      Animated water tiles_118: 612624221
+      Animated water tiles_119: 1213369568
+      Animated water tiles_12: -2087601170
+      Animated water tiles_120: 808360361
+      Animated water tiles_121: 1123914263
+      Animated water tiles_122: 1022086329
+      Animated water tiles_123: -931993852
+      Animated water tiles_124: 1689077314
+      Animated water tiles_125: 855083816
+      Animated water tiles_126: 943005591
+      Animated water tiles_127: 938626138
+      Animated water tiles_128: 1611553277
+      Animated water tiles_129: -981153718
+      Animated water tiles_13: 1063571434
+      Animated water tiles_130: 139532541
+      Animated water tiles_131: -582631549
+      Animated water tiles_132: 141173526
+      Animated water tiles_133: 484257145
+      Animated water tiles_134: -755460592
+      Animated water tiles_135: -773636817
+      Animated water tiles_136: 1421311343
+      Animated water tiles_137: 422135161
+      Animated water tiles_138: -1088416462
+      Animated water tiles_139: -1595793426
+      Animated water tiles_14: 1195118166
+      Animated water tiles_140: 1615167805
+      Animated water tiles_141: 669057194
+      Animated water tiles_142: 2010501156
+      Animated water tiles_143: 1624616739
+      Animated water tiles_144: 79807882
+      Animated water tiles_145: 157870000
+      Animated water tiles_146: -1903820417
+      Animated water tiles_147: -2008569419
+      Animated water tiles_148: -1595859696
+      Animated water tiles_149: 1677727254
+      Animated water tiles_15: -537122006
+      Animated water tiles_150: -1613639046
+      Animated water tiles_151: -1508089033
+      Animated water tiles_152: 1993760641
+      Animated water tiles_153: -284063938
+      Animated water tiles_154: -1104926188
+      Animated water tiles_155: 839592204
+      Animated water tiles_156: 1611858580
+      Animated water tiles_157: 1538916007
+      Animated water tiles_158: 1953252152
+      Animated water tiles_159: -1236049639
+      Animated water tiles_16: -1745690471
+      Animated water tiles_160: 688242663
+      Animated water tiles_161: 1392951212
+      Animated water tiles_162: -282968618
+      Animated water tiles_163: 1254042536
+      Animated water tiles_164: 1055470065
+      Animated water tiles_165: -692470843
+      Animated water tiles_166: 1863522429
+      Animated water tiles_167: 51576778
+      Animated water tiles_168: 1508417871
+      Animated water tiles_169: 2062495070
+      Animated water tiles_17: -1646107256
+      Animated water tiles_170: 1087803801
+      Animated water tiles_171: 239241397
+      Animated water tiles_172: -1597957455
+      Animated water tiles_173: -2077060902
+      Animated water tiles_174: -287330982
+      Animated water tiles_175: 1741873913
+      Animated water tiles_176: -543969703
+      Animated water tiles_177: 1786999688
+      Animated water tiles_178: -1258414316
+      Animated water tiles_179: 2123431544
+      Animated water tiles_18: 1977064367
+      Animated water tiles_180: -1069992239
+      Animated water tiles_181: 1212858159
+      Animated water tiles_182: -2142244152
+      Animated water tiles_183: -980120990
+      Animated water tiles_184: 39483801
+      Animated water tiles_185: -1377062098
+      Animated water tiles_186: 202912769
+      Animated water tiles_187: -829490969
+      Animated water tiles_188: 451486835
+      Animated water tiles_189: 1353659358
+      Animated water tiles_19: 1127116119
+      Animated water tiles_190: 724942255
+      Animated water tiles_191: 960667654
+      Animated water tiles_192: -2061277455
+      Animated water tiles_193: -1512425095
+      Animated water tiles_194: 446548064
+      Animated water tiles_195: -1387571821
+      Animated water tiles_196: 33819958
+      Animated water tiles_197: 113262020
+      Animated water tiles_198: -155031625
+      Animated water tiles_199: 590053915
+      Animated water tiles_2: -1071999789
+      Animated water tiles_20: -815131072
+      Animated water tiles_200: 339628694
+      Animated water tiles_201: 1116097451
+      Animated water tiles_202: -1414838444
+      Animated water tiles_203: 825791259
+      Animated water tiles_204: -1428568981
+      Animated water tiles_205: 1325252581
+      Animated water tiles_206: -101871247
+      Animated water tiles_207: 1153144574
+      Animated water tiles_208: 443339620
+      Animated water tiles_209: 864924826
+      Animated water tiles_21: 1183728153
+      Animated water tiles_210: -2130651702
+      Animated water tiles_211: -1165036835
+      Animated water tiles_212: -1592189493
+      Animated water tiles_213: -805701871
+      Animated water tiles_214: -1827651395
+      Animated water tiles_215: -1197269757
+      Animated water tiles_216: -1806674816
+      Animated water tiles_217: 422908913
+      Animated water tiles_218: 1202792112
+      Animated water tiles_219: 389071435
+      Animated water tiles_22: 680280906
+      Animated water tiles_220: 1684942670
+      Animated water tiles_221: 1145207582
+      Animated water tiles_222: 948213718
+      Animated water tiles_223: 1897631429
+      Animated water tiles_224: -1963838047
+      Animated water tiles_225: 523577619
+      Animated water tiles_226: 259841229
+      Animated water tiles_227: -143110432
+      Animated water tiles_228: -2052603172
+      Animated water tiles_229: -770661207
+      Animated water tiles_23: 611495173
+      Animated water tiles_230: -1918903443
+      Animated water tiles_231: -985258353
+      Animated water tiles_232: -1313048622
+      Animated water tiles_233: 42546550
+      Animated water tiles_234: 1504274339
+      Animated water tiles_235: -1847229197
+      Animated water tiles_236: 540764864
+      Animated water tiles_237: -200034178
+      Animated water tiles_238: 826574883
+      Animated water tiles_239: -99501144
+      Animated water tiles_24: 1275468700
+      Animated water tiles_240: -522744302
+      Animated water tiles_241: -1915761035
+      Animated water tiles_242: 170535318
+      Animated water tiles_243: 932238064
+      Animated water tiles_244: 1972314099
+      Animated water tiles_245: 622326581
+      Animated water tiles_246: 747607029
+      Animated water tiles_247: 195507217
+      Animated water tiles_248: -1984674673
+      Animated water tiles_249: -1699117769
+      Animated water tiles_25: 146487368
+      Animated water tiles_250: 740822269
+      Animated water tiles_251: -493038642
+      Animated water tiles_252: 575178649
+      Animated water tiles_253: -289547970
+      Animated water tiles_254: -1339511997
+      Animated water tiles_255: 1603682002
+      Animated water tiles_256: 1547957002
+      Animated water tiles_257: 588378949
+      Animated water tiles_258: -964512254
+      Animated water tiles_259: -631977959
+      Animated water tiles_26: 442178388
+      Animated water tiles_260: -1502573427
+      Animated water tiles_261: 1002644068
+      Animated water tiles_262: -1518862663
+      Animated water tiles_263: -291048887
+      Animated water tiles_264: 1384006058
+      Animated water tiles_265: 1501766775
+      Animated water tiles_266: -46431407
+      Animated water tiles_267: -1673262793
+      Animated water tiles_268: -819940230
+      Animated water tiles_269: 1034620978
+      Animated water tiles_27: 713836852
+      Animated water tiles_270: -817908265
+      Animated water tiles_271: -404100976
+      Animated water tiles_272: 475867921
+      Animated water tiles_273: -1841303497
+      Animated water tiles_274: -1873176396
+      Animated water tiles_275: 654960264
+      Animated water tiles_276: 230690856
+      Animated water tiles_277: 1279885299
+      Animated water tiles_278: 916497890
+      Animated water tiles_279: -5443170
+      Animated water tiles_28: -686368636
+      Animated water tiles_280: 61348113
+      Animated water tiles_281: -1827211085
+      Animated water tiles_282: 865773554
+      Animated water tiles_283: -880673017
+      Animated water tiles_284: -1912817023
+      Animated water tiles_285: -1718755068
+      Animated water tiles_286: 793468086
+      Animated water tiles_287: -2033305905
+      Animated water tiles_288: -1829951196
+      Animated water tiles_289: 1836702903
+      Animated water tiles_29: 1979968637
+      Animated water tiles_290: 183231009
+      Animated water tiles_291: -1167181728
+      Animated water tiles_292: 1525941099
+      Animated water tiles_293: -1011619225
+      Animated water tiles_294: 1637610258
+      Animated water tiles_295: -1105100817
+      Animated water tiles_296: 1349984260
+      Animated water tiles_297: 1369492901
+      Animated water tiles_298: 815386645
+      Animated water tiles_299: -320587591
+      Animated water tiles_3: -1945759230
+      Animated water tiles_30: 504738175
+      Animated water tiles_300: -1847276128
+      Animated water tiles_301: 1208783269
+      Animated water tiles_302: 1497649895
+      Animated water tiles_303: -1034238285
+      Animated water tiles_304: 184811211
+      Animated water tiles_305: -353317381
+      Animated water tiles_306: 399393286
+      Animated water tiles_307: -69735327
+      Animated water tiles_308: -707291090
+      Animated water tiles_309: 1499380762
+      Animated water tiles_31: -1590452773
+      Animated water tiles_310: -1125257232
+      Animated water tiles_311: 1232564383
+      Animated water tiles_312: -608477043
+      Animated water tiles_313: 1671856256
+      Animated water tiles_314: 913092646
+      Animated water tiles_315: 1254254514
+      Animated water tiles_316: -1546418825
+      Animated water tiles_317: -1217010610
+      Animated water tiles_318: -1198113743
+      Animated water tiles_319: 852646957
+      Animated water tiles_32: -1079944982
+      Animated water tiles_320: 1438351675
+      Animated water tiles_321: 426351477
+      Animated water tiles_322: -1374021403
+      Animated water tiles_323: 305361006
+      Animated water tiles_324: 1839226498
+      Animated water tiles_325: -490008342
+      Animated water tiles_326: -1780533997
+      Animated water tiles_327: 1659822125
+      Animated water tiles_328: -1626694245
+      Animated water tiles_329: 1598872156
+      Animated water tiles_33: 1564762217
+      Animated water tiles_330: -1184708131
+      Animated water tiles_331: 445678878
+      Animated water tiles_332: -1293493033
+      Animated water tiles_333: 1070754244
+      Animated water tiles_334: 1475568090
+      Animated water tiles_335: -1417486007
+      Animated water tiles_336: -694805915
+      Animated water tiles_337: 58536011
+      Animated water tiles_338: 260985925
+      Animated water tiles_339: -581215467
+      Animated water tiles_34: 1179066197
+      Animated water tiles_340: 1905313188
+      Animated water tiles_341: 1202519736
+      Animated water tiles_342: 2086313851
+      Animated water tiles_343: 277814458
+      Animated water tiles_344: -1725896619
+      Animated water tiles_345: -1440851232
+      Animated water tiles_346: -2055638978
+      Animated water tiles_347: 1642400869
+      Animated water tiles_348: -1228987414
+      Animated water tiles_349: -295172413
+      Animated water tiles_35: -1420250627
+      Animated water tiles_350: -175948546
+      Animated water tiles_351: -1584664507
+      Animated water tiles_352: 9748031
+      Animated water tiles_353: 1292336987
+      Animated water tiles_354: -396934087
+      Animated water tiles_355: 29731491
+      Animated water tiles_356: -1129148641
+      Animated water tiles_357: 595079886
+      Animated water tiles_358: -1728259408
+      Animated water tiles_359: -514217143
+      Animated water tiles_36: 828545864
+      Animated water tiles_360: 1354046063
+      Animated water tiles_361: 1884977848
+      Animated water tiles_362: 184020178
+      Animated water tiles_363: 578153439
+      Animated water tiles_364: 1594099983
+      Animated water tiles_365: 1577236706
+      Animated water tiles_37: 1208288764
+      Animated water tiles_38: -722437601
+      Animated water tiles_39: -495503573
+      Animated water tiles_4: 716237904
+      Animated water tiles_40: -350834617
+      Animated water tiles_41: -1479671801
+      Animated water tiles_42: 627004847
+      Animated water tiles_43: 1735291853
+      Animated water tiles_44: 778544260
+      Animated water tiles_45: 1128316646
+      Animated water tiles_46: 365588143
+      Animated water tiles_47: -837038480
+      Animated water tiles_48: -1093402377
+      Animated water tiles_49: 411017595
+      Animated water tiles_5: 2112615215
+      Animated water tiles_50: -1304774446
+      Animated water tiles_51: 509490721
+      Animated water tiles_52: 376884291
+      Animated water tiles_53: -382020875
+      Animated water tiles_54: 1724085015
+      Animated water tiles_55: -1426096131
+      Animated water tiles_56: 483482421
+      Animated water tiles_57: 668161351
+      Animated water tiles_58: 132067353
+      Animated water tiles_59: 2120666352
+      Animated water tiles_6: -1627119245
+      Animated water tiles_60: -635934916
+      Animated water tiles_61: -1392225992
+      Animated water tiles_62: 1331317937
+      Animated water tiles_63: 877116740
+      Animated water tiles_64: 100334840
+      Animated water tiles_65: -1514977933
+      Animated water tiles_66: 2002089648
+      Animated water tiles_67: 671865378
+      Animated water tiles_68: -1388480082
+      Animated water tiles_69: -661893099
+      Animated water tiles_7: 1370435815
+      Animated water tiles_70: -621276924
+      Animated water tiles_71: 247089603
+      Animated water tiles_72: -1443677812
+      Animated water tiles_73: -1184153179
+      Animated water tiles_74: -2133083142
+      Animated water tiles_75: -155678880
+      Animated water tiles_76: -2023419552
+      Animated water tiles_77: -381128280
+      Animated water tiles_78: 516929384
+      Animated water tiles_79: -1643571991
+      Animated water tiles_8: 1715949287
+      Animated water tiles_80: -1752206148
+      Animated water tiles_81: 1730916782
+      Animated water tiles_82: 1985034815
+      Animated water tiles_83: 187887190
+      Animated water tiles_84: -1744676611
+      Animated water tiles_85: -1405994222
+      Animated water tiles_86: -1735074961
+      Animated water tiles_87: -2099297288
+      Animated water tiles_88: -352002759
+      Animated water tiles_89: 4351766
+      Animated water tiles_9: -108207990
+      Animated water tiles_90: -930944649
+      Animated water tiles_91: 794352529
+      Animated water tiles_92: -367953026
+      Animated water tiles_93: 1872984846
+      Animated water tiles_94: 1126320669
+      Animated water tiles_95: -166688032
+      Animated water tiles_96: -687596564
+      Animated water tiles_97: 2039971105
+      Animated water tiles_98: -277018269
+      Animated water tiles_99: -627621096
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
